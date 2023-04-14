@@ -72,6 +72,7 @@ This is image \!\[placeholder image\] (http://via.placeholder.com/100x100)
 
 This is [Github link](https://github.com).  
 This is image ![placeholder image](http://via.placeholder.com/100x100/)  
+Image in folder ![tux](assets/tux.png)  
 
 ### anchor1 ###  
 [link anchor1](#anchor1) 
