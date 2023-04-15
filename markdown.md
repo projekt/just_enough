@@ -116,3 +116,25 @@ print("Hello, World!")
 `this is "code"`
 
 ### 9.Other ###
+Table
+|one|two|three|
+|---|---|-----|
+|item|item|item|
+|item|item|item|
+|item|item|item|
+|item|item|item|
+  
+Formulas:  
+x<sub>1</sub>+x<sub>2</sub>  
+x<sup>2</sup> + x<sup>2</sup> = 2*x<sup>2  
+
+Checkbox:  
+- [x] Milestone 1
+- [ ] Milestone 2
+- [x] Milestone 3
+- [ ] Milestone 4
+    
+    
+Latex:  
+  inline  $\Phi^{2}+x=4$   
+  display $$\Phi^{2}+x=4$$   
