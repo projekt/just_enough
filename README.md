@@ -5,7 +5,7 @@
 
 [Flutter](Flutter.md)
 
-[Exercies](programmingexercies.md)
+[Exercises for Learning a new Programming Language](programmingexercies.md)
 
 
 
