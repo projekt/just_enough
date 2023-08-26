@@ -5,4 +5,7 @@
 
 [Flutter](Flutter.md)
 
+[Exercies](programmingexercies.md)
+
+
 
