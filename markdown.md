@@ -1,5 +1,7 @@
 # Just enough Markdown
 
+toc doesn't work
+
 # Table of Contents
  [1.Headings](#1.Heading)   
  [2.HR](#2.HR)  
